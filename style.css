@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Molengo&display=swap');
+
+
+
+
+.btn-dark{background-color: #4A0F5B;
+    /* font-family: 'Molengo',Arial, Helvetica, sans-serif; */
+}
+
+
+.ruler::after{
+    content: '';
+    display: block;
+    background-color: #FFC800;
+    width: 100%;
+    height: 2px;
+}
+
+.mstar{
+    margin-right: 10px;
+    margin-left: 10px;
+}
+.micon{
+    margin-right:40%
+}
